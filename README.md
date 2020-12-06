@@ -12,3 +12,5 @@ This is basic gallery website.
 * Local JSON data
 * Lazy Load
 * Modal
+
+Project is hosted live on firebase: https://gallerywebapp.rupak-thapa.com.np/
